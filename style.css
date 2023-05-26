@@ -131,6 +131,10 @@ body.dark .menu-bar .mode i.moon{
     transform: translateY(-50%) rotate(180deg);
 }
 
+.sidebar .menu{
+    margin-top: 35px;
+}
+
 .sidebar li{
     height: 50px;
     margin-top: 10px;
